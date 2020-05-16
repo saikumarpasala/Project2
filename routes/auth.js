@@ -15,4 +15,4 @@ router.post('/', (req, res) => {
     res.send('log in user');
 });
 
-module.exports = routes;
+module.exports = router;

@@ -4,7 +4,7 @@ const app = express();
 
 
 app.get('/', (req, res) => 
-res.json({ msg: 'welcome to the Contactkeeper API...' })
+res.json({ msg: 'welcome to the project2 API...' })
 );
 
 // Define Routes
